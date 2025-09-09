@@ -1,0 +1,28 @@
+.congthuc{
+    background-color: rgb(149, 149, 224);
+    height: 50vh;
+    padding: 20px;
+}
+
+
+
+
+
+.congthuc1{
+    height: 50px;
+    background-color: red;
+    position: relative;
+    top: 20px;
+    left: 80px; 
+}
+
+.congthuc2{
+    background-color: blue;
+    height: 50px;
+    position: absolute;
+}
+
+.congthuc3{
+    background-color: green;
+    height: 50px;
+}
